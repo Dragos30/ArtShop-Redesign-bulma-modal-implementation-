@@ -1,2 +1,2 @@
-# dragosghita02-gmail.com
+ Redesign ArtShop Bulma-modal implementation 
 Redesign ArtShop bulma-framework-modal implementation
